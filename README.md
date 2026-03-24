@@ -1,0 +1,2 @@
+# NoteAI
+Notas con IA
